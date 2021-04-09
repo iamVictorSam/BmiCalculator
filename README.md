@@ -1,6 +1,5 @@
-# bmiapp
-
-A new Flutter application.
+# BMI Calculator 
+A health Calcutor to check the body mass index of the body
 
 ## Getting Started
 
